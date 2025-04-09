@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+motor
+pydantic
+openai
+python-dotenv
+streamlit
+transformers
+torch
+rake_nltk
